@@ -1,2 +1,10 @@
 # Forex Modeling
-## Description: 
+## Overview: 
+
+## Model:
+
+## Data:
+
+## Appendix:
+
+## Paper:
